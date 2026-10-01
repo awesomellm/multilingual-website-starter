@@ -1,0 +1,12 @@
+{
+  "name": "zequnweb-multilingual-website-starter",
+  "version": "1.0.0",
+  "type": "module",
+  "license": "MIT",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "build": "node build.mjs",
+    "preview": "node server.mjs",
+    "test": "node --test starter.test.mjs"
+  }
+}
